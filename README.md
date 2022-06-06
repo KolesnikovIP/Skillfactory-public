@@ -3,4 +3,4 @@
 Решения курса [Skillfactory Data Science cource](https://skillfactory.ru/data-scientist)
 
 ## Проекты
-* [Проект 0. Игра: Угадай число](https://github.com/Koleso62/SF_data_sience/tree/master/Project_0)
+* [Проект 0. Игра: Угадай число](https://github.com/KolesnikovIP/Skillfactory-public/tree/main/guess-number-task)
